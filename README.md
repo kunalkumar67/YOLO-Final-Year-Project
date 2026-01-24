@@ -6,7 +6,7 @@
 - **Database - MongoDB**
 - **ML Models - YOLOV5, YOLOV8, YOLOV9, YOLOV11**
 - **Dataset training tools - Jupyter Notebook/Google Colab**
-# About Project
+## OVERVIEW
 - **Created an automated approach to precisely identify and categorize craters from satellite photos using YOLO models.**
 - **Developed an online framework for real-time crater analysis and compared YOLO variants for accuracy and effectiveness.**
 - **Improves the design of landing sites, minimizes human labour, and makes future study possible with a worldwide crater database.**
