@@ -350,7 +350,7 @@ For questions, issues, or collaborations:
 
 <div align="center">
 
-**Made with ❤️ for lunar science and deep learning research**
+**Made with ❤️ for lunar science and deep learning research** hahahaha
 
 *Last Updated: May 2026*
 
